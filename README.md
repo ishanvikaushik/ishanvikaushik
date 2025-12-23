@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanvikaushik&layout=compact&theme=dark)
 [![Ishanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanvikaushik&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
