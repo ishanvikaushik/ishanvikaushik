@@ -54,4 +54,5 @@ Inquisitive explorer of technology and how it impacts the world we live in.
 
 
 ## 📊 GitHub Stats
-[![Ishanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanvikaushik&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Ishanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanvikaushik&show_icons=true&theme=highcontrast)](https://github.com/ishanvikaushik)
+
